@@ -2,10 +2,6 @@
 
 Site pessoal de portfólio desenvolvido para apresentar minhas habilidades, projetos e certificados como desenvolvedor full stack em formação.
 
-🔗 Acesse: *[adicione aqui o link do site publicado]*
-
-![preview](img/preview.png)
-
 ## 🧭 Sobre
 
 Sou desenvolvedor com conhecimento em JavaScript, Python, C# e MySQL, atualmente em transição para full stack, com foco também em inteligência artificial. Este site reúne minhas especialidades, um pouco sobre minha trajetória, os projetos que já desenvolvi e os certificados conquistados até aqui.
